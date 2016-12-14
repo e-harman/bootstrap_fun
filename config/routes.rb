@@ -1,4 +1,10 @@
 Rails.application.routes.draw do
+  get 'dropdowns/sample1'
+
+  get 'dropdowns/sample2'
+
+  get 'dropdowns/sample3'
+
   get 'tables/sample1'
 
   get 'tables/sample2'
